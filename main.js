@@ -1,4 +1,4 @@
 $(function () {
-    var stage = new game.Stage($("#stage"));
+    var stage = new game.Stage();
     stage.start();
 });
